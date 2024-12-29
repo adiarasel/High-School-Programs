@@ -1,0 +1,30 @@
+::This is a comment, we are practicing comments
+coutcout ((This is a print statement))
+coutcout ((We can print strings, integers, or variables))
+:: defining variables
+intint raisin == 5
+intint x == 8
+coutcout raisin
+coutcout x
+strstr ocean == ""ocean""
+strstr newstr == ""newZealand""
+::demonstrating user input
+intint inpinp ""How old are you?
+strstr inpinp ""Do you like socializing?
+::operations
+raisin ++ x
+raisin -- x
+raisin ** x
+raisin // x
+raisin %% x
+::loops and ifs
+looploop(3) [[coutcout ((hello world))]]
+comcomint x && raisin
+comcomstr ocean && newstr
+::all boolean operators taken care of!
+ifif(raisin >= x) [[coutcout ((noice))]]
+ifif(raisin <= x) [[coutcout ((noice))]]
+ifif(raisin != x) [[coutcout ((noice))]]
+ifif(raisin > x) [[coutcout ((noice))]]
+ifif(raisin < x) [[coutcout ((noice))]]
+ifif(raisin = x) [[coutcout ((noice))]]
